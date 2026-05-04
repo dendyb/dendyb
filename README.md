@@ -6,7 +6,7 @@
 - 🌱 Currently using Laravel & Node.js
 
 ## 🛠️ Tech Stack
-![Laravel](https://img.shields.io/badge/-Laravel-red)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 
 ## 📊 GitHub Stats
