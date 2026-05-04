@@ -10,8 +10,10 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-red)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=dendy&show_icons=true)
+## 📊 System Administrator
+- Google Workspace
+- Microsoft 365
+- Zoom Workplace
 
 ## 🔗 Website
 - yala.web.id
