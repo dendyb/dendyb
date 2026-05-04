@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**dendyb/dendyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Laravel Developer
+- 🤖 Interested in AI, Web, Web App Development
+- 🌱 Currently using Laravel & Node.js
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Laravel](https://img.shields.io/badge/-Laravel-red)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=dendy&show_icons=true)
+
+## 🔗 Website
+- yala.web.id
