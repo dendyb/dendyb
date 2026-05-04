@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dendyb/dendyb/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/dendyb/dendyb/main/gihubdendy.png" width="100%" />
 ## Hi there 👋
 
 ## 🚀 About Me
