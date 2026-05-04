@@ -16,4 +16,6 @@
 - Zoom Workplace
 
 ## 🔗 Website
+- web.ugm.ac.id
+- dendy.staff.ugm.ac.id
 - yala.web.id
